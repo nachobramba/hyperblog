@@ -1,2 +1,3 @@
 # hyperblog
 Un blog zarpado
+>El curso de Git era lo que necesitaba para lanzarme en la industria de la ciencia de datos y machine learning aplicada a las ciencias del deporte y salud
